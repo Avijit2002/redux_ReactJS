@@ -4,3 +4,4 @@
 3) Redux specific file structure.
 4) Learned about redux middleware.
 5) Learned how to use redux-thunk to make async API calls.
+6) Redux Dev Tools
